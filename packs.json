@@ -1,14 +1,9 @@
 [
   {
-    "name": "Platinum Texture Pack",
-    "author": "User123",
-    "url": "https://example.com/pack1.zip",
-    "version": "1.0"
-  },
-  {
-    "name": "Dark Mode GD",
-    "author": "Modder45",
-    "url": "https://example.com/dark.zip",
-    "version": "2.1"
+    "name": "Platinum Pack",
+    "author": "Vouie",
+    "description": "A clean, modern interface for 2.2.",
+    "logo": "GJ_downloadsIcon_001.png",
+    "url": "https://example.com/pack.zip"
   }
 ]
